@@ -1,7 +1,7 @@
 # Patryk Rzucidlo (@ptkdev) support@ptkdev.io
 [![https://ptkdev.it](https://ptkdev.it/img/ptkdev_patryk_rzucidlo_avatar_150.png)](https://ptkdev.it)
 
-`Lead Developer - February 05, 2018`
+`Lead Developer - March 18, 2018`
 * Portfolio: [https://ptkdev.it](https://ptkdev.it/)
 * Blog: [https://blog.ptkdev.it](https://blog.ptkdev.it)
 * Twitter: [https://twitter.com/ptkdev](https://twitter.com/ptkdev)

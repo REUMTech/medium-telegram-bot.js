@@ -1,4 +1,4 @@
-# v0.1.0 (February 7, 2018)
+# v0.1.0 (March 18, 2018)
 
 * First Release
 * Easy to use
@@ -9,6 +9,5 @@
 * Custom commands
 * Email contact form
 * Database with user information
-* No medium-plugin required
-* No medium-mysql user/pass required
+* No medium user/pass required
 * Medium news feed on telegram bot
