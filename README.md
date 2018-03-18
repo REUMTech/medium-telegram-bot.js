@@ -75,7 +75,7 @@ I love snake_case syntax sorry for this :sob: don't hate me.
 <p align="center"><h1 align="center">Social Manager Tools</h1></p>
 
 <p align="center">Available:<br />
-<a href="https://github.com/social-manager-tools/instagram-bot.js">InstagramBot.js</a> (<a href="https://github.com/social-manager-tools/instagram-bot-gui.js">GUI</a> | <a href="https://github.com/social-manager-tools/instagram-bot-lib.js">GUI</a>)<br />
+<a href="https://github.com/social-manager-tools/instagram-bot.js">InstagramBot.js</a> (<a href="https://github.com/social-manager-tools/instagram-bot-gui.js">GUI</a> | <a href="https://github.com/social-manager-tools/instagram-bot-lib.js">LIB</a>)<br />
 <a href="https://github.com/social-manager-tools/wordpress-telegram-bot.js">TelegramWordPressBot.js</a><br />
 <a href="https://github.com/social-manager-tools/medium-telegram-bot.js">TelegramMediumBot.js</a></p>
 
