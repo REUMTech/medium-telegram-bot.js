@@ -1,0 +1,46 @@
+{
+  "name": "mediumtelegrambotjs",
+  "version": "0.1.0",
+  "description": "Telegram Bot for any Medium blog made with love and nodejs",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "start-forever": "forever -o ./logs/debug.log -e ./logs/errors.log start bot.js",
+    "start-pm2": "pm2 -o ./logs/debug.log -e ./logs/errors.log start bot.js",
+    "start-pm2-nolog": "pm2 -o /dev/null -e ./logs/errors.log start bot.js ",
+    "stop": "killall node",
+    "stop-forever": "forever stop bot.js",
+    "stop-pm2": "pm2 stop bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/social-manager-tools/medium-telegram-bot.js.git"
+  },
+  "keywords": [
+    "bot",
+    "ptkdev",
+    "medium-telegram",
+    "medium-telegram-bot",
+    "medium",
+    "telegraf"
+  ],
+  "author": "Patryk Rzucidlo [@ptkdev] <support@ptkdev.io> (https://ptkdev.it)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/social-manager-tools/medium-telegram-bot.js/issues"
+  },
+  "homepage": "https://mediumtelegrambotjs.ptkdev.io",
+  "dependencies": {
+    "path": "^0.12.7",
+    "request": "^2.80.0",
+    "telegraf": "^3.14.1",
+    "nodemailer": "^4.3.1",
+    "localtunnel": "^1.8.3",
+    "xml2js": "^0.4.19",
+    "sqlite3": "^3.1.13",
+    "system-sleep": "^1.3.6"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  }
+}
