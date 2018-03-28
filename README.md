@@ -1,3 +1,5 @@
+<p align="center"><a href="https://medium-telegram.bot.ptkdev.io/" alt="medium-telegram-bot.js"><img src="https://medium-telegram.bot.ptkdev.io/img/mediumtelegrambot_logo.png"></a></p>
+
 <p align="center"><h1 align="center">MediumTelegramBot.js</h1></p>
 
 <p align="center"><a href="#" alt="License"><img src="https://img.shields.io/badge/license-GLPv3-brightgreen.svg"></a>
